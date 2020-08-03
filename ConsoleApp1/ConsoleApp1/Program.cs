@@ -14,10 +14,15 @@ namespace ConsoleApp1
             Pre100 obj = new Pre100(100.789);
             obj.Show();
             */
-           
             
-            
-            
+            /*
+            //task 2
+            InputNumber obj = new InputNumber();
+            obj.SetNumber(Convert.ToInt32(Console.ReadLine()));
+            Console.WriteLine("You entered: "+ obj.GetNumber());
+            */
+
+
         }
     }
 }
